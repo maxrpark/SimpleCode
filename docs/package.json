@@ -1,0 +1,22 @@
+{
+  "name": "simplecode",
+  "version": "0.0.1",
+  "description": "NPM packages",
+  "main": "index.js",
+  "authors": {
+    "name": "Max",
+    "email": "proyectoindit@gmail.com"
+  },
+  "repository": "https://github.com/maxrpark/SimpleCode.git/simplecode",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "@maxcoding/simpleslider": "^1.0.12"
+  }
+}
