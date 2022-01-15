@@ -16,7 +16,7 @@ SimpelSlider has some basic params so you can start using it right away. But can
 | height      | Control height of sliderContainer | 100%    | px, vh or %  |
 | width       | Control width of sliderContainer  | 600px   | Use px or vh |
 | color       | Change color of arrows            | black   | RGB hex name |
-| arrowSize   | Size of arrows                    | 1       | From 1 to 5  |
+| arrowSize   | Size of arrows                    | 2       | From 1 to 5  |
 | arrowWeight | Size of weight                    | 5       | From 1 to 10 |
 
 ## Example
