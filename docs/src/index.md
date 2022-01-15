@@ -1,34 +1,15 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: image/simpleCodeLogo.jpg
 tagline: NPM packages
 actionText: Quick Start →
-actionLink: /guide/
+actionLink: /guide/intro
 features:
-  - title: Feature 1 Title
-    details: Feature 1 Description
-  - title: Feature 2 Title
-    details: Feature 2 Description
-  - title: Feature 3 Title
-    details: Feature 3 Description
-footer: Made by Max with ❤️
+  - title: Simple to use
+    details: Work right out of the box
+  - title: Customizable
+    details: Simple to edit
+  - title: Performant
+    details: Light packages
+footer: Made by Max Coding
 ---
-
-## hello
-
-<template>
-<SimpleSlider/>
-
-</template>
-
-<script>
-// import SimpleSlider from '../../components/SimpleSlider'
-export default {
-  components:{
-// SimpleSlider
-  },
-  mounted() {
-    // simpleSlider();
-  },
-};
-</script>

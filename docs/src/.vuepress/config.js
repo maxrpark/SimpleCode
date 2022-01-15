@@ -22,6 +22,24 @@ module.exports = {
       'meta',
       { name: 'apple-mobile-web-app-status-bar-style', content: 'black' },
     ],
+    [
+      'link',
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '32x32',
+        href: '/image/favicon-32x32.png',
+      },
+    ],
+    [
+      'link',
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '16x16',
+        href: '/image/favicon-16x16.png',
+      },
+    ],
   ],
 
   /**
@@ -31,32 +49,24 @@ module.exports = {
    */
   themeConfig: {
     repo: '',
+    displayAllHeaders: true,
     editLinks: false,
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
+        text: 'Carrousel',
         link: '/guide/',
       },
       {
-        text: 'Config',
-        link: '/config/',
-      },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org',
+        text: 'My Projects',
+        link: 'https://my-portfolio-blog-website.netlify.app/',
       },
     ],
     sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: ['', 'using-vue'],
-        },
-      ],
+      '/guide/': ['intro', '', 'params'],
+      // '/simpleSlider/': ['', 'Installation', 'Params'],
     },
   },
 

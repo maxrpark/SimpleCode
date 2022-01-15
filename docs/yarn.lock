@@ -922,10 +922,10 @@
     "@babel/helper-validator-identifier" "^7.15.7"
     "to-fast-properties" "^2.0.0"
 
-"@maxcoding/simpleslider@^1.0.12":
-  "integrity" "sha512-1nNl7p/0UTS1L6BWyF6SNfNLTkMkdtKiNFAOut0ZQvnHkwx1R2gXw8xyfxrkIHxFB0dvgNga4Q50EbxEJzY7+A=="
-  "resolved" "https://registry.npmjs.org/@maxcoding/simpleslider/-/simpleslider-1.0.12.tgz"
-  "version" "1.0.12"
+"@maxcoding/simpleslider@^1.2.0":
+  "integrity" "sha512-GmZFyUjvv1Ipj/WPHCouERjzj5omTv33r3sEiIBU9rK/3JxxQcYZWx5qREfZv+A4/C9Us0ue5hck9d5MD2C9LA=="
+  "resolved" "https://registry.npmjs.org/@maxcoding/simpleslider/-/simpleslider-1.2.0.tgz"
+  "version" "1.2.0"
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   "integrity" "sha512-bPHp6Ji8b41szTOcaP63VlnbbO5Ny6dwAATtY6JTjh5N2OLrb5Qk/Th5cRkRQhkWCt+EJsYrNB0MiL+Gpn6e3g=="

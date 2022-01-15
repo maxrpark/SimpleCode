@@ -17,6 +17,6 @@
     "vuepress": "^1.5.3"
   },
   "dependencies": {
-    "@maxcoding/simpleslider": "^1.0.12"
+    "@maxcoding/simpleslider": "^1.2.0"
   }
 }
