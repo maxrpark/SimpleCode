@@ -7,6 +7,8 @@ tags:
 
 # Params
 
+## Params
+
 SimpelSlider has some basic params so you can start using it right away. But can customize some of them you fulfill your needs.
 
 | Param       | Description                       | Default | Notes        |
