@@ -6,6 +6,8 @@ tags:
 
 # Getting Started
 
+To use it, open up your terminal in the desired directory and run the following command:
+
 <code-group>
 <code-block title="NPM">
 ```bash
@@ -50,7 +52,7 @@ Your javascript file must be type="module".
 
 ## Template
 
-All you need to do is to create a section or div tag with the class slidesContainer and inside it place as many div tags as you want your slides-show or carousel to have. This div needs to have the slide class to work.
+All you need to do is to create a section or div tag with the class sliderContainer and inside it place as many div tags as you want your slides-show or carousel to have. This div needs to have the slide class to work.
 
 ```html
 <section height="80vh" class="sliderContainer">
