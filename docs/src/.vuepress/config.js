@@ -56,8 +56,8 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Carrousel',
-        link: '/guide/',
+        text: 'Simple Slider',
+        link: '/guide/intro/',
       },
       {
         text: 'My Projects',
