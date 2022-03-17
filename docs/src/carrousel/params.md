@@ -19,7 +19,7 @@ SimpelSlider has some basic params so you can start using it right away. But can
 | arrowSize   | Size of arrows                    | 2       | From 1 to 5  |
 | arrowWeight | Size of weight                    | 5       | From 1 to 10 |
 
-## Example
+### Example
 
 ::: tip Try it out
 Play around with code on [codepen](https://codepen.io/maxrpark/pen/ExwXRPb)

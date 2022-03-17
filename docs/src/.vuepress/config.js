@@ -57,7 +57,15 @@ module.exports = {
     nav: [
       {
         text: 'Simple Slider',
-        link: '/guide/intro/',
+        link: '/carrousel/intro/',
+      },
+      {
+        text: 'Simple Review',
+        link: '/review/intro/',
+      },
+      {
+        text: 'VS Meme',
+        link: '/meme/intro/',
       },
       {
         text: 'My Projects',
@@ -65,8 +73,22 @@ module.exports = {
       },
     ],
     sidebar: {
-      '/guide/': ['intro', '', 'params', 'DynamicData'],
-      // '/simpleSlider/': ['', 'Installation', 'Params'],
+      // '/guide/slide': ['intro', '', 'params', 'DynamicData'],
+      // '/guide/review': ['intro', '', 'params'],
+      // simpleCode: [
+      //   {
+      //     text: 'Simple Slider',
+      //     link: '/carrousel/intro/',
+      //   },
+      //   {
+      //     text: 'Simple Review',
+      //     link: '/review/intro/',
+      //   },
+      // ],
+      '/simpleCode/': ['/carrousel/intro', '/review/intro', '/meme/intro'],
+      '/review/': ['intro', '', 'GetValues', 'params'],
+      '/carrousel/': ['intro', '', 'params', 'DynamicData'],
+      '/meme/': ['intro'],
     },
   },
 

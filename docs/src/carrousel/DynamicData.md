@@ -44,7 +44,7 @@ const fetchProjects = async () => {
 fetchProjects(); // Run your function
 ```
 
-## Example
+### Example
 
 ::: tip Try it out
 Play around with code on [codepen](https://codepen.io/maxrpark/pen/popjqxG)

@@ -7,7 +7,7 @@ tags:
 
 This package is really simple to use and I let you display a slides-show or carousel on your website without having to worry at all.
 
-## Example
+### Example
 
 ::: tip Try it out
 Play around with code on [codepen](https://codepen.io/maxrpark/pen/ExwXRPb)

@@ -6,13 +6,11 @@
 
 # Simple Code
 
-This is a documentation site for my npm packages, that the moment of creating this website I had published only one but the idea is to create more.
+Simple Code is documentation site for my npm packages and VSCODE extensions.
 
-The motivation to create this project also came because I wanted to try [vuepress](https://vuepress.vuejs.org/).
-
-## What is it about
-I documentation site for my npm packages.
+The motivation to create this project also came because I wanted to use [vuepress](https://vuepress.vuejs.org/).
 
 ## Visit
-You can take a look at the side by clicking the next link
+
+You can take a look at the site by clicking the next link
 [Simple Code](https://simple-code.netlify.app/).
