@@ -65,7 +65,7 @@ module.exports = {
       },
     ],
     sidebar: {
-      '/guide/': ['intro', '', 'params'],
+      '/guide/': ['intro', '', 'params', 'DynamicData'],
       // '/simpleSlider/': ['', 'Installation', 'Params'],
     },
   },
