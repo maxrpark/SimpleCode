@@ -11,6 +11,8 @@ tags:
 
 ## Preview
 
+You can download the extension directly from vs code or from the marketplace if you visit the next [link.](https://marketplace.visualstudio.com/items?itemName=MaxCode.gsap-greensock-snippets)
+
 <div align="center">
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fxd1n1xy28stp63l48pf.gif)

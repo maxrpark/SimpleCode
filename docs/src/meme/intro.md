@@ -1,8 +1,8 @@
 ---
 tags:
-  - vs code
-  - meme
-  - extension
+    - vs code
+    - meme
+    - extension
 ---
 
 ## Meme
@@ -39,27 +39,27 @@ I hope you enjoy it and have some fun time.
 
 #### Physical health benefits
 
-- Boosts immunity
-- Lowers stress hormones
-- Decreases pain
-- Relaxes your muscles
-- Prevents heart disease
+-   Boosts immunity
+-   Lowers stress hormones
+-   Decreases pain
+-   Relaxes your muscles
+-   Prevents heart disease
 
 #### Mental health benefits
 
-- Adds joy and zest to life
-- Eases anxiety and tension
-- Relieves stress
-- Improves mood
-- Strengthens resilience
+-   Adds joy and zest to life
+-   Eases anxiety and tension
+-   Relieves stress
+-   Improves mood
+-   Strengthens resilience
 
 #### Social benefits
 
-- Strengthens relationships
-- Attracts others to us
-- Enhances teamwork
-- Helps defuse conflict
-- Promotes group bonding
+-   Strengthens relationships
+-   Attracts others to us
+-   Enhances teamwork
+-   Helps defuse conflict
+-   Promotes group bonding
 
 ### I would love to hear from you
 
