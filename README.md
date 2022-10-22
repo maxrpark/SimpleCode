@@ -1,8 +1,6 @@
-<div align="center">
-<h1>Simple Code </h1>
-  
+
 ![alt text](https://img.shields.io/badge/My%20first%20website-2.0.3-green)  ![alt text](https://img.shields.io/badge/Made%20by-Max-brightgreen) ![alt text](https://img.shields.io/badge/Made%20With-Vuepress-lightgreen)
-</div>
+
 
 # Simple Code
 
